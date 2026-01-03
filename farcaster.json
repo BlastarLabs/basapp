@@ -1,0 +1,13 @@
+{
+  "name": "NFT Mini Game",
+  "description": "Educational NFT game demo",
+  "frame": {
+    "version": "vNext",
+    "image": "/icon.html",
+    "button": {
+      "title": "Play Game",
+      "action": "link",
+      "target": "/index.html"
+    }
+  }
+}

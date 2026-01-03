@@ -1,0 +1,8 @@
+{
+  "name": "nft-education-game",
+  "version": "1.0.0",
+  "description": "Blockchain & NFT education project",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
